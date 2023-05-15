@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>icon/examIcon.png</file>
+        <file>icon/summaryIcon.png</file>
+        <file>icon/LoginBackground.png</file>
+        <file>icon/personIcon.png</file>
+        <file>icon/loginLogo.png</file>
+        <file>icon/LoginPtn.png</file>
+        <file>icon/defaultPhoto.png</file>
+        <file>icon/appendIcon.png</file>
+        <file>icon/deleteIcon.png</file>
+    </qresource>
+    <qresource prefix="/new/QSS">
+        <file>MacOS.qss</file>
+    </qresource>
+</RCC>
